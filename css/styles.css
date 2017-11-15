@@ -1,0 +1,15 @@
+.img-planet{
+  width: 30%;
+  height: 30%;
+}
+body{
+  text-align: center;
+  background-color: #c0c0c0;
+}
+p.intro{
+  font-style: italic;
+}
+
+.intro-titles{
+  font-weight: bold;
+}
